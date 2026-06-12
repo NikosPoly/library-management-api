@@ -1,0 +1,2 @@
+spring.application.name=libraryapp
+spring.data.mongodb.uri=mongodb://localhost:27017/your_database_name
